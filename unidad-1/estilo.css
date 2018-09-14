@@ -1,0 +1,32 @@
+p, li, h1 {    /*hello my friend*/
+    color: blue;
+    width: 500px;
+    border: 1px solid black;
+}
+
+#niveles{ /*selector identidad*/
+    background-color: yellow;
+    font-family: 'Noto Serif KR', sans-serif;
+font-family: 'Montserrat', sans-serif;
+padding: 19px 39px;
+border: 1px dashed blue;
+margin: 0 auto;
+}
+
+.diferente{ /*selector clase*/
+    color: red;
+    border: 2px solid blue;
+    
+}
+
+.hola {
+    background:linear-gradient(top, black 10%, orangered 75%, yellow);
+color:white;
+width: 500px;
+border: 1px solid red; 
+}
+#niveles:hover{
+    color: blueviolet;
+    background-color: black;
+}
+
